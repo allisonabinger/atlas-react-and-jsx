@@ -1,4 +1,3 @@
-import { StrictMode } from "react";
 import Header from "./components/Header";
 
 

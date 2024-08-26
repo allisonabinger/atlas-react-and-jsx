@@ -1,5 +1,4 @@
 // greets the user based on the time of day
-import React from "react";
 import daySVG from "../assets/day.svg";
 import eveningSVG from "../assets/day.svg";
 import nightSVG from "../assets/day.svg";
