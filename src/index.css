@@ -17,6 +17,7 @@
 
   background: var(--blue);
   color: var(--offwhite);
+  margin: 2rem;
 }
 
 .app {
@@ -34,6 +35,7 @@ nav {
 .greeting {
   display: flex;
   align-items: center;
+  font-size: 2.5rem;
 }
 
 .greeting img {
@@ -42,6 +44,14 @@ nav {
 
 .social-links a {
   margin-right: 1rem;
+}
+
+.section h2 {
+    font-size: 2rem;
+}
+.section {
+    width: 70%;
+    font-size: large;
 }
 
 .about-me {
@@ -85,6 +95,7 @@ li {
   align-items: center;
   padding-top: 1rem;
 }
+
 
 li:first-child {
   padding-top: 0;
