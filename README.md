@@ -1,4 +1,47 @@
-# React and JSX Introduction
+<h1 align="center">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" align="left" width="75">
+React and JSX Introduction
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" align="right" width="75"></h1>
+
+
+## Intro
+This project introduces the basic concepts of React and JSX. It displays the benefits of decomposing your site into smaller and declarative components that can be reused. This is also the first project of my last trimester at Atlas School, and introduces the beginner concepts of web user interfaces. 
+
+## Learning Objectives
+
+1. **How to perform local development for React apps**
+
+2. **How to create React components with JSX**
+
+3. **How React `props` work**
+
+4. **How to build and deploy a React app to the cloud**
+
+&nbsp;
+---
+&nbsp;
+
+## Resources and Descriptions
+
+
+### [Hello React - Jeremiah Swank](https://atlas-jswank.github.io/blog/hello-react/)
+Getting started with react,components, props, and vite.
+
+### [What is JSX? - Jeremiah Swank](https://atlas-jswank.github.io/blog/jsx/)
+Explores the syntax of JSX with React.
+
+### [ES Modules - Jeremiah Swank*](https://atlas-jswank.github.io/blog/es-modules/)
+An explanation of how modules work in modern JavaScript.
+
+### [Vite - A Build Tool for Modern Web Projects](https://vitejs.dev/guide/)
+A tool to help build a faster and leaner development experience for web projects. Very useful for React apps!
+
+### [React Developer Tools - Chrome Extension](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+A chrome extension to enhance the Chrome Developer Tools for debugging and organization.
+
+&nbsp;
+---
+&nbsp;
 
 ## Getting Started
 
@@ -28,3 +71,18 @@ For more information on using dev containers see this [tutorial](https://atlas-j
 - `npm run dev`: Starts dev server with Hot Module Reloading on port 5173. Anytime a file changes, the changes will automatocally be reflected in the browser
 - `npm run lint`: Run the lint checker with eslint to check for known linting issues
 - `npm run build`: Outputs the production files into the `dist` folder
+
+# Code Examples and Highlighted Tasks
+
+## [Task](task_link)
+
+### Concepts Used
+**Concept**
+Explanation
+
+&nbsp;
+---
+&nbsp;
+
+## Authors/Contributors to this project
+This README was made with :heart: by Allison Binger, student at Atlas School Tulsa. Find me on [GitHub](https://github.com/allisonabinger) or [LinkedIn](https://linkedin.com/in/allisonbinger)! :smile_cat:
