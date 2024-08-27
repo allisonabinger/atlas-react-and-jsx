@@ -1,6 +1,7 @@
 import Header from "./components/Header";
 import Section from "./components/Section";
 import HelpfulResource from "./components/HelpfulResource";
+import AboutMe from "./components/AboutMe";
 
 function App() {
     return (
@@ -26,6 +27,7 @@ function App() {
             <HelpfulResource label="BroCode on Youtube - React Tutorial Playlist" link="https://www.youtube.com/playlist?list=PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ"/>
             <HelpfulResource label="Creating a React Project with Vite" link="https://vitejs.dev/guide/"/>
           </Section>
+          <AboutMe />
         </div>
       );
 }
