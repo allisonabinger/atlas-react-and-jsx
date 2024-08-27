@@ -1,6 +1,6 @@
 import Header from "./components/Header";
 import Section from "./components/Section";
-
+import HelpfulResource from "./components/HelpfulResource";
 
 function App() {
     return (
@@ -20,6 +20,11 @@ function App() {
                 <li>Efficient Performance - Using the Virtual DOM allows for efficient user interactions and data chagnes</li>
                 <li>Custom Dev Tools - Official React Developer Tools extensions are available for Chrome and Firefox</li>
             </ul>
+          </Section>
+          <Section title="Helpful Resources">
+            <HelpfulResource label="W3 Schools Full React Tutorial" link="https://www.w3schools.com/REACT/default.asp"/>
+            <HelpfulResource label="BroCode on Youtube - React Tutorial Playlist" link="https://www.youtube.com/playlist?list=PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ"/>
+            <HelpfulResource label="Creating a React Project with Vite" link="https://vitejs.dev/guide/"/>
           </Section>
         </div>
       );

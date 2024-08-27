@@ -1,8 +1,8 @@
 import open from "../assets/open.svg"
 
-function OpenLink(link) {
+function OpenLink(props) {
     return (
-        <a href={link} target="_blank"><img src={open}/></a>
+        <a href={props.link} target="_blank"><img src={open}/></a>
     )
 }
 

@@ -1,9 +1,10 @@
 import copy from "../assets/copy.svg"
 
-function CopyLink(link) {
+function CopyLink(props) {
 
     function copyURL() {
-        navigator.clipboard.writeText(link)
+        navigator.clipboard.writeText(props.link)
+        // console.log(props.link)
     }
 
     return (
