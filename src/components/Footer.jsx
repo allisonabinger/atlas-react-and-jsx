@@ -2,7 +2,6 @@ import links from "../assets/links.json";
 
 function Footer() {
   const date = new Date().getFullYear
-  console.log(date);
 
   return (
     <footer>

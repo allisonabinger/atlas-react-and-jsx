@@ -20,20 +20,16 @@ function App() {
       </Section>
       <Section title="Benefits of React">
         <ul>
-          <li>Modular - Easily reuse components within your application.</li>
-          <li>
-            Active Community - React remains a popular framework with an active
-            community
-          </li>
-          <li>Cross Platform - React works within iOS and Android apps</li>
-          <li>
-            Efficient Performance - Using the Virtual DOM allows for efficient
-            user interactions and data chagnes
-          </li>
-          <li>
-            Custom Dev Tools - Official React Developer Tools extensions are
-            available for Chrome and Firefox
-          </li>
+          <li>Modular</li>
+          <p>Easily reuse components within your application.</p>
+          <li>Active Community</li>
+          <p>React remains a popular framework with an activecommunity</p>
+          <li>Cross Platform</li>
+          <p>React works within iOS and Android apps</p>
+          <li>Efficient Performance</li>
+          <p>Using the Virtual DOM allows for efficient user interactions and data chagnes</p>
+          <li>Custom Dev Tools</li>
+          <p>Official React Developer Tools extensions are available for Chrome and Firefox</p>
         </ul>
       </Section>
       <Section title="Helpful Resources">

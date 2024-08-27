@@ -3,7 +3,7 @@ import SocialLinks from "./SocialLinks.jsx"
 
 function Header() {
     return (
-        <nav>
+        <nav className="navbar">
             <Greeting /><SocialLinks/>
         </nav>
     )
