@@ -51,6 +51,7 @@ function App() {
         />
       </Section>
       <AboutMe />
+      <Footer />
     </div>
   );
 }
