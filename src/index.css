@@ -64,9 +64,18 @@ nav {
 }
 
 .about-me img {
-  width: 200px;
+  width: 300px;
   border-radius: 30px;
   margin-right: 2rem;
+}
+
+.about-me h3 {
+    font-size: 2rem;
+}
+
+.about-me p {
+    font-size: large;
+    margin-right: 3rem;
 }
 
 li::marker {
